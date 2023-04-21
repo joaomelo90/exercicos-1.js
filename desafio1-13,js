@@ -1,0 +1,15 @@
+//crie um programa que mostre o tamanho do arrey,
+//ex.const arrey=[0,1] imprime:2. const arrey=["banana","maça","laranja"] imprime:3
+
+const array1 = [0, 1];
+console.log("Tamanho do array 1: " + array1.length);
+
+const array2 = ["banana", "maça", "laranja"];
+console.log("Tamanho do array 2: " + array2.length);
+
+
+//Neste código, definimos duas constantes, array1 e array2, contendo diferentes valores. Em seguida, 
+//utilizamos a propriedade length para obter o tamanho de cada um dos arrays. A função console.log() 
+//é utilizada para exibir o tamanho dos arrays no console do navegador. 
+//Note que a mensagem exibida no console inclui o tamanho do array concatenado com uma string, para tornar a mensagem
+// mais legível.
